@@ -31,5 +31,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            <TU_DOCKERHUB_USER>/practica_cicd:latest
-            ghcr.io/${{ github.repository_owner }}/practica_cicd:latest
+            waliidd/practica_cicd:latest
+            ghcr.io/waliidd01/practica_cicd:latest
